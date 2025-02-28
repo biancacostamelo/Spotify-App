@@ -1,11 +1,23 @@
-# Sample Snack app
+## Clone Spotify
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este é um clone do aplicativo Spotify desenvolvido com React Native. O projeto utiliza `react-navigation` com `TabScreen` para navegação entre telas, proporcionando uma experiência similar ao app original.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+### Tecnologias Utilizadas
+- React Native
+- React Navigation
+- Expo (opcional, dependendo da configuração do projeto)
+- Styled Components (para estilização)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+### Funcionalidades
+- Navegação por abas utilizando `TabScreen`
+- Tela inicial com sugestões de músicas e playlists
+- Tela de pesquisa para encontrar músicas, artistas e álbuns
+- Tela de biblioteca com listas salvas pelo usuário
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+![home-mobile-design](image.png)
+![buscar-mobile-design](image-1.png)
+![suaBiblioteca-mobile-design](image-2.png)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+---
+
+Este projeto foi feito para fins educativos e não tem relação oficial com o Spotify.
